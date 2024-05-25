@@ -5,7 +5,12 @@ function foo() {
   return 123;
 }
 
+var Mynamespace = {
+  foo: 123
+};
+
 export {
   foo ,
+  Mynamespace ,
 }
 /* No side effect */

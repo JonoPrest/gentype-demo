@@ -1,2 +1,2 @@
-@gentype
+@genType
 type myRecord = {fieldA: int}
