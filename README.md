@@ -1,23 +1,8 @@
-# ReScript Project Template
+# GenType `.d.ts` PoC
 
-- [Installation](../../README.md)
+This is PoC repo for exploring new format for ReScript GenType
 
-Official ReScript starter template.
+You can see examples from:
 
-## Installation
-
-```sh
-npm install
-```
-
-## Build
-
-- Build: `npm run res:build`
-- Clean: `npm run res:clean`
-- Build & watch: `npm run res:dev`
-
-## Run
-
-```sh
-node src/Demo.res.js
-```
+- Original outputs `src/*.gen.ts` 
+- Hand-written `src/*.d.ts`
